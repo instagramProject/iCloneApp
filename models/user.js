@@ -1,0 +1,1 @@
+//defines user object and attributes (email, username, password, firstName, lastName)
