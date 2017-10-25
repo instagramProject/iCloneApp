@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  background: #dc143c;
+  padding: 10px 0;
+  height: 60px;
+}
+
+.header h1 {
+  margin: 3px;
+  color: #fff;
+}
+
+.main {
+  background-color: #e0e0e0;
+  height: auto;
+ }
+
+.footer {
+  background-color: #a9a9a9;
+  padding: 0;
+  height: 50px;
+}
+
+.form-group {
+  margin-top: 30px;
+  font-size: 18px;
+  padding: 0 15px;
+  font-family: sans-serif;
+  width: 100%;
+ }
+
+.btn {
+  background-color: #dc143c;
+  border: 2px bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
